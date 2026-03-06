@@ -1,4 +1,4 @@
-# 🔗 GameBindingSystem
+# 🔗 Unity Data Binding System
 
 **Unity için reaktif state yönetim framework'ü**
 
